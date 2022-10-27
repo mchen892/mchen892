@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**mchen892/mchen892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **mchen892/mchen892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sc2438@cornell.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to make digital art and play the piano 
--->
+
