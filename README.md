@@ -11,3 +11,6 @@ My name is Maggie Chen, and I'm a current sophomore at Cornell University studyi
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to make digital art and play the piano 
 
+### Socials 
+- Linkedln: https://www.linkedin.com/in/mchen892/
+- Website (wip): https://mchen892.github.io/
