@@ -13,4 +13,4 @@ My name is Maggie Chen, and I'm a current sophomore at Cornell University studyi
 
 ### Socials 
 - Linkedln: https://www.linkedin.com/in/mchen892/
-- Website (wip): https://mchen892.github.io/
+- Website (wip): mchen892-github-io.vercel.app
