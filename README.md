@@ -13,4 +13,4 @@ My name is Maggie Chen, and I'm a junior at Cornell University studying informat
 
 ### Socials 
 - Linkedln: https://www.linkedin.com/in/mchen892/
-- Website (wip): [maggiechen.org]([https://www.maggiechen.org/])
+- Website: [maggiechen.org]([https://www.maggiechen.org/])
