@@ -4,8 +4,7 @@
 <!-- **mchen892/mchen892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 My name is Maggie Chen, and I'm a senior at Cornell University studying information science with a minor in computer science. I'm currently interested in UI/UX, and software engineering. 
-- 🔭 I’m currently working on making a website with Next.js!
-- 🌱 I’m currently learning more about data structures and UI/UX
+- 🌱 I’m currently learning more about fashion design
 - 💬 Ask me about anything 
 - 📫 How to reach me: sc2438@cornell.edu
 - 😄 Pronouns: she/her
